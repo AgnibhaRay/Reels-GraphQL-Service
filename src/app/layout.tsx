@@ -17,8 +17,8 @@ const fontSans = FontSans({
 });
 
 export const metadata: Metadata = {
-  title: "Instagram Video Downloader",
-  description: "Download Instagram Videos",
+  title: "Instagram Reel Downloader",
+  description: "Download Instagram Reels securely and efficiently.",
 };
 
 export default function RootLayout({
