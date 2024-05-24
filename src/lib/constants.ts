@@ -21,7 +21,7 @@ export const siteLinks: NavLink[] = [
 export const externalLinks: NavLink[] = [
   {
     name: "Github Repository",
-    href: "#",
+    href: "https://github.com/AgnibhaRay/Reels-GraphQL-Service",
   },
   {
     name: "Creator",

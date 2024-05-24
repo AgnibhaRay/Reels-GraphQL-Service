@@ -30,7 +30,7 @@ export function Navbar() {
             </Link>
             <Link
               target="_blank"
-              href="#"
+              href="https://github.com/AgnibhaRay/Reels-GraphQL-Service"
               className="hover:underline"
             >
               Github
